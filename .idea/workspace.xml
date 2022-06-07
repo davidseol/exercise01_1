@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fbb353d-1d37-41da-acb9-57830c6b9f5d" name="Changes" comment="featuring: 혼공자(조건문8)">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise02_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="9fbb353d-1d37-41da-acb9-57830c6b9f5d" name="Changes" comment="featuring: 혼공자(조건문9)">
+      <change afterPath="$PROJECT_DIR$/src/Exercise02_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercise02_9">
-    <configuration name="Exercise02_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise02_5" />
+  <component name="RunManager" selected="Application.Exercise02_10">
+    <configuration name="Exercise02_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02_10" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise02_10" />
         <item itemvalue="Application.Exercise02_9" />
         <item itemvalue="Application.Exercise02_8" />
         <item itemvalue="Application.Exercise02_7" />
         <item itemvalue="Application.Exsercise02_6" />
-        <item itemvalue="Application.Exercise02_5" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654590026846</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="featuring: 혼공자(조건문9)">
+      <created>1654609393078</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1654609393078</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +323,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="featuring: 자바의정석_변수" />
     <MESSAGE value="featuring: 자바의정석_형변환" />
     <MESSAGE value="featuring: 자바의정석_형변환 연산" />
     <MESSAGE value="featuring: 혼공자(연산자1)" />
@@ -346,6 +347,7 @@
     <MESSAGE value="featuring: 혼공자(조건문6)" />
     <MESSAGE value="featuring: 혼공자(조건문7))" />
     <MESSAGE value="featuring: 혼공자(조건문8)" />
-    <option name="LAST_COMMIT_MESSAGE" value="featuring: 혼공자(조건문8)" />
+    <MESSAGE value="featuring: 혼공자(조건문9)" />
+    <option name="LAST_COMMIT_MESSAGE" value="featuring: 혼공자(조건문9)" />
   </component>
 </project>
