@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fbb353d-1d37-41da-acb9-57830c6b9f5d" name="Changes" comment="featuring: 혼공자(조건문8)">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise02_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29sG3dcChg24yi03OwqkflmZHaz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Exercise02_9">
+    <configuration name="Exercise02_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02_5" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise02_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02_7" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise02_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02_8" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise02_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02_9" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exsercise02_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exsercise02_6" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise02_9" />
+        <item itemvalue="Application.Exercise02_8" />
+        <item itemvalue="Application.Exercise02_7" />
+        <item itemvalue="Application.Exsercise02_6" />
+        <item itemvalue="Application.Exercise02_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fbb353d-1d37-41da-acb9-57830c6b9f5d" name="Changes" comment="" />
+      <created>1653894181928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653894181928</updated>
+    </task>
+    <task id="LOCAL-00001" summary="nothing">
+      <created>1653981815516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653981815516</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nothing">
+      <created>1653986629655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653986629655</updated>
+    </task>
+    <task id="LOCAL-00003" summary="변수">
+      <created>1654157618016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654157618016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="연산자">
+      <created>1654158240876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654158240876</updated>
+    </task>
+    <task id="LOCAL-00005" summary="featuring: 자바의정석_변수">
+      <created>1654239103487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654239103487</updated>
+    </task>
+    <task id="LOCAL-00006" summary="featuring: 자바의정석_형변환">
+      <created>1654240013135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654240013135</updated>
+    </task>
+    <task id="LOCAL-00007" summary="featuring: 자바의정석_형변환 연산">
+      <created>1654246594293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654246594293</updated>
+    </task>
+    <task id="LOCAL-00008" summary="featuring: 혼공자(연산자1)">
+      <created>1654487165120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654487165135</updated>
+    </task>
+    <task id="LOCAL-00009" summary="featuring: 혼공자(연산자2)">
+      <created>1654488111598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654488111598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="featuring: 혼공자(연산자3)">
+      <created>1654493829578</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654493829578</updated>
+    </task>
+    <task id="LOCAL-00011" summary="featuring: 혼공자(연산자4)">
+      <created>1654494336601</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654494336601</updated>
+    </task>
+    <task id="LOCAL-00012" summary="featuring: 혼공자(연산자5)">
+      <created>1654495024503</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654495024503</updated>
+    </task>
+    <task id="LOCAL-00013" summary="featuring: 혼공자(연산자6)">
+      <created>1654496256781</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654496256781</updated>
+    </task>
+    <task id="LOCAL-00014" summary="featuring: 혼공자(연산자7)">
+      <created>1654498917005</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654498917005</updated>
+    </task>
+    <task id="LOCAL-00015" summary="featuring: 혼공자(연산자8)">
+      <created>1654500202515</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654500202515</updated>
+    </task>
+    <task id="LOCAL-00016" summary="featuring: 혼공자(연산자9)">
+      <created>1654504101473</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654504101473</updated>
+    </task>
+    <task id="LOCAL-00017" summary="featuring: 혼공자(연산자10)">
+      <created>1654505465793</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654505465793</updated>
+    </task>
+    <task id="LOCAL-00018" summary="featuring: 혼공자(연산자11)">
+      <created>1654507925886</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654507925886</updated>
+    </task>
+    <task id="LOCAL-00019" summary="featuring: 혼공자(연산자12)">
+      <created>1654508638504</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654508638504</updated>
+    </task>
+    <task id="LOCAL-00020" summary="featuring: 혼공자(연산자13)">
+      <created>1654509244458</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654509244458</updated>
+    </task>
+    <task id="LOCAL-00021" summary="featuring: 혼공자(연산자14)">
+      <created>1654509953006</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654509953006</updated>
+    </task>
+    <task id="LOCAL-00022" summary="featuring: 혼공자(조건문1)">
+      <created>1654580483996</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1654580483996</updated>
+    </task>
+    <task id="LOCAL-00023" summary="featuring: 혼공자(조건문2)">
+      <created>1654580771898</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1654580771898</updated>
+    </task>
+    <task id="LOCAL-00024" summary="featuring: 혼공자(조건문3)">
+      <created>1654582457353</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1654582457353</updated>
+    </task>
+    <task id="LOCAL-00025" summary="featuring: 혼공자(조건문4)">
+      <created>1654584313518</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1654584313518</updated>
+    </task>
+    <task id="LOCAL-00026" summary="featuring: 혼공자(조건문5)">
+      <created>1654584853724</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1654584853724</updated>
+    </task>
+    <task id="LOCAL-00027" summary="featuring: 혼공자(조건문6)">
+      <created>1654585266196</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1654585266196</updated>
+    </task>
+    <task id="LOCAL-00028" summary="featuring: 혼공자(조건문7))">
+      <created>1654588472371</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1654588472371</updated>
+    </task>
+    <task id="LOCAL-00029" summary="featuring: 혼공자(조건문8)">
+      <created>1654590026846</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1654590026846</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="featuring: 자바의정석_변수" />
+    <MESSAGE value="featuring: 자바의정석_형변환" />
+    <MESSAGE value="featuring: 자바의정석_형변환 연산" />
+    <MESSAGE value="featuring: 혼공자(연산자1)" />
+    <MESSAGE value="featuring: 혼공자(연산자2)" />
+    <MESSAGE value="featuring: 혼공자(연산자3)" />
+    <MESSAGE value="featuring: 혼공자(연산자4)" />
+    <MESSAGE value="featuring: 혼공자(연산자5)" />
+    <MESSAGE value="featuring: 혼공자(연산자6)" />
+    <MESSAGE value="featuring: 혼공자(연산자7)" />
+    <MESSAGE value="featuring: 혼공자(연산자8)" />
+    <MESSAGE value="featuring: 혼공자(연산자9)" />
+    <MESSAGE value="featuring: 혼공자(연산자10)" />
+    <MESSAGE value="featuring: 혼공자(연산자11)" />
+    <MESSAGE value="featuring: 혼공자(연산자12)" />
+    <MESSAGE value="featuring: 혼공자(연산자13)" />
+    <MESSAGE value="featuring: 혼공자(연산자14)" />
+    <MESSAGE value="featuring: 혼공자(조건문1)" />
+    <MESSAGE value="featuring: 혼공자(조건문2)" />
+    <MESSAGE value="featuring: 혼공자(조건문3)" />
+    <MESSAGE value="featuring: 혼공자(조건문4)" />
+    <MESSAGE value="featuring: 혼공자(조건문5)" />
+    <MESSAGE value="featuring: 혼공자(조건문6)" />
+    <MESSAGE value="featuring: 혼공자(조건문7))" />
+    <MESSAGE value="featuring: 혼공자(조건문8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="featuring: 혼공자(조건문8)" />
+  </component>
+</project>
